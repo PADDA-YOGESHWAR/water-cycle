@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/water-cycle/static/css/main.56281e19.css",
+    "main.js": "/water-cycle/static/js/main.9d73dbe6.js",
+    "static/js/787.07473dc0.chunk.js": "/water-cycle/static/js/787.07473dc0.chunk.js",
+    "static/media/water.jpg": "/water-cycle/static/media/water.f7a90245e98d46522072.jpg",
+    "static/media/waternight.jpg": "/water-cycle/static/media/waternight.ee9724dadb335c18ea5b.jpg",
+    "index.html": "/water-cycle/index.html",
+    "main.56281e19.css.map": "/water-cycle/static/css/main.56281e19.css.map",
+    "main.9d73dbe6.js.map": "/water-cycle/static/js/main.9d73dbe6.js.map",
+    "787.07473dc0.chunk.js.map": "/water-cycle/static/js/787.07473dc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56281e19.css",
+    "static/js/main.9d73dbe6.js"
+  ]
+}
